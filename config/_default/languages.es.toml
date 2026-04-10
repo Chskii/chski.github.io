@@ -1,0 +1,15 @@
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "Writeups de HTB, apuntes de seguridad y más"
+
+[author]
+  name = "Chski"
+  headline = "Pentester"
+  bio = "Writeups de HTB, apuntes y experimentos"
+  links = [
+    { github = "https://github.com/chski" }
+  ]

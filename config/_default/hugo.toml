@@ -1,0 +1,17 @@
+baseURL = "https://chski.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+paginate = 10
+theme = "blowfish"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "Chski"
+  [languages.es]
+    languageName = "Español"
+    weight = 2
+    title = "Chski"
