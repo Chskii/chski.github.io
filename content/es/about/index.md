@@ -7,18 +7,9 @@ showReadingTime: false
 showWordCount: false
 ---
 
-Hola, soy Chski — un entusiasta de la seguridad enfocado en pentesting y desafíos CTF.
-
-## Lo que hago
-
-Juego máquinas de HackTheBox, escribo writeups detallados y documento todo lo que aprendo. Este blog es mi base de conocimiento personal y una forma de compartir lo que encuentro interesante en el mundo de la seguridad ofensiva.
-
-## Habilidades
-
-- Pentesting de aplicaciones web
-- Escalada de privilegios en Linux
-- Ataques a Active Directory
-- CTF / HackTheBox
+¡Hola! Mi nombre es Edson. Soy egresado de la Universidad Peruana de Ciencias Aplicadas (UPC) y tengo una gran pasión por seguir creciendo en el mundo de la ciberseguridad.
+Una de las formas más efectivas que he encontrado para consolidar lo que aprendo es escribir y documentar todo lo que voy haciendo. Por eso decidí crear este blog, un espacio donde compartiré writeups de máquinas que vaya resolviendo, temas que investigue y apuntes de mi formación como pentester y atacante ético. Si tienes sugerencias, ideas de proyectos o simplemente quieres comentar algo, ¡eres más que bienvenido!
+Algo que he notado a lo largo de mi camino es que muchos writeups y walkthroughs dan por sentado que el lector ya maneja ciertos conceptos o terminologías, lo cual puede ser una barrera real para quienes están empezando. Mi objetivo con este blog es justamente romper esa barrera: reunir en un solo lugar laboratorios, retos y temas explicados de forma clara y accesible, sin necesidad de recurrir a decenas de fuentes externas para entender de qué se está hablando.
 
 ## Certificaciones y progreso
 
