@@ -1,80 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chski</title><link>https://chskii.github.io/</link><description>Recent content on Chski</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://chskii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://chskii.github.io/en/about/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://chskii.github.io/en/about/</guid><description>&lt;p&gt;Hey, I&amp;rsquo;m Chski — a security enthusiast focused on penetration testing and CTF challenges.&lt;/p&gt;
-
-&lt;h2 class="relative group"&gt;What I do
- &lt;div id="what-i-do" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#what-i-do" aria-label="Anchor"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;p&gt;I play HackTheBox machines, write detailed writeups, and document everything I learn along the way. This blog is my personal knowledge base and a way to share what I find interesting in the world of offensive security.&lt;/p&gt;
-
-&lt;h2 class="relative group"&gt;Skills
- &lt;div id="skills" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#skills" aria-label="Anchor"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Web application pentesting&lt;/li&gt;
-&lt;li&gt;Linux privilege escalation&lt;/li&gt;
-&lt;li&gt;Active Directory attacks&lt;/li&gt;
-&lt;li&gt;CTF / HackTheBox&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="relative group"&gt;Certifications &amp;amp; Progress
- &lt;div id="certifications--progress" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#certifications--progress" aria-label="Anchor"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;p&gt;Working towards OSCP.&lt;/p&gt;</description></item><item><title>Sobre mí</title><link>https://chskii.github.io/es/about/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://chskii.github.io/es/about/</guid><description>&lt;p&gt;Hola, soy Chski — un entusiasta de la seguridad enfocado en pentesting y desafíos CTF.&lt;/p&gt;
-
-&lt;h2 class="relative group"&gt;Lo que hago
- &lt;div id="lo-que-hago" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#lo-que-hago" aria-label="Anchor"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;p&gt;Juego máquinas de HackTheBox, escribo writeups detallados y documento todo lo que aprendo. Este blog es mi base de conocimiento personal y una forma de compartir lo que encuentro interesante en el mundo de la seguridad ofensiva.&lt;/p&gt;
-
-&lt;h2 class="relative group"&gt;Habilidades
- &lt;div id="habilidades" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#habilidades" aria-label="Anchor"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Pentesting de aplicaciones web&lt;/li&gt;
-&lt;li&gt;Escalada de privilegios en Linux&lt;/li&gt;
-&lt;li&gt;Ataques a Active Directory&lt;/li&gt;
-&lt;li&gt;CTF / HackTheBox&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="relative group"&gt;Certificaciones y progreso
- &lt;div id="certificaciones-y-progreso" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#certificaciones-y-progreso" aria-label="Anchor"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;p&gt;En camino al OSCP.&lt;/p&gt;</description></item><item><title>2人目のダミー作者</title><link>https://chskii.github.io/authors/secondauthor/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/authors/secondauthor/_index.ja/</guid><description>&lt;p&gt;2人目のダミー作者の素晴らしいダミープロフィールです。&lt;/p&gt;</description></item><item><title>Advanced</title><link>https://chskii.github.io/tags/advanced/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.it/</guid><description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chski</title><link>https://chskii.github.io/</link><description>Recent content on Chski</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://chskii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://chskii.github.io/en/about/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://chskii.github.io/en/about/</guid><description>&lt;p&gt;Hello! My name is Edson. I graduated from the Peruvian University of Applied Sciences (UPC) and I’m passionate about continuing to grow in the world of cybersecurity.
+One of the most effective ways I’ve found to reinforce what I learn is to write down and document everything I do. That’s why I decided to create this blog—a space where I’ll share write-ups of systems I’ve compromised, topics I’ve researched, and notes from my training as a pentester and ethical hacker. If you have any suggestions, project ideas, or just want to share your thoughts, you’re more than welcome!
+Something I’ve noticed along the way is that many write-ups and walkthroughs assume the reader is already familiar with certain concepts or terminology, which can be a real barrier for those just getting started. My goal with this blog is precisely to break down that barrier: to bring together labs, challenges, and topics in one place, explained clearly and accessibly, without having to consult dozens of external sources to understand what’s being discussed.&lt;/p&gt;</description></item><item><title>Sobre mí</title><link>https://chskii.github.io/es/about/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://chskii.github.io/es/about/</guid><description>&lt;p&gt;¡Hola! Mi nombre es Edson. Soy egresado de la Universidad Peruana de Ciencias Aplicadas (UPC) y tengo una gran pasión por seguir creciendo en el mundo de la ciberseguridad.
+Una de las formas más efectivas que he encontrado para consolidar lo que aprendo es escribir y documentar todo lo que voy haciendo. Por eso decidí crear este blog, un espacio donde compartiré writeups de máquinas que vaya resolviendo, temas que investigue y apuntes de mi formación como pentester y atacante ético. Si tienes sugerencias, ideas de proyectos o simplemente quieres comentar algo, ¡eres más que bienvenido!
+Algo que he notado a lo largo de mi camino es que muchos writeups y walkthroughs dan por sentado que el lector ya maneja ciertos conceptos o terminologías, lo cual puede ser una barrera real para quienes están empezando. Mi objetivo con este blog es justamente romper esa barrera: reunir en un solo lugar laboratorios, retos y temas explicados de forma clara y accesible, sin necesidad de recurrir a decenas de fuentes externas para entender de qué se está hablando.&lt;/p&gt;</description></item><item><title>2人目のダミー作者</title><link>https://chskii.github.io/authors/secondauthor/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/authors/secondauthor/_index.ja/</guid><description>&lt;p&gt;2人目のダミー作者の素晴らしいダミープロフィールです。&lt;/p&gt;</description></item><item><title>Advanced</title><link>https://chskii.github.io/tags/advanced/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.it/</guid><description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:&lt;/p&gt;
 &lt;p&gt;You can also use these content pages to define Hugo metadata like titles and descriptions that will be used for SEO and other purposes.&lt;/p&gt;</description></item><item><title>Avançado</title><link>https://chskii.github.io/tags/advanced/_index.pt-br/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.pt-br/</guid><description>&lt;p&gt;Esta é a tag &amp;ldquo;Avançado&amp;rdquo;. Assim como outras páginas de listagem no Blowfish, você pode adicionar conteúdo personalizado a termos de taxonomia individuais e ele será exibido no topo da listagem de termos.&lt;/p&gt;
 &lt;p&gt;Você também pode usar essas páginas de conteúdo para definir metadados do Hugo, como títulos e descrições, que serão usados para SEO e outros propósitos.&lt;/p&gt;</description></item><item><title>Avançado</title><link>https://chskii.github.io/tags/advanced/_index.pt-pt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.pt-pt/</guid><description>&lt;p&gt;Esta é a tag &amp;ldquo;Avançado&amp;rdquo;. Tal como outras páginas de listagem no Blowfish, pode adicionar conteúdo personalizado a termos de taxonomia individuais e ele será apresentado no topo da listagem de termos.&lt;/p&gt;
 &lt;p&gt;Também pode utilizar estas páginas de conteúdo para definir metadados do Hugo, como títulos e descrições, que serão utilizados para SEO e outros propósitos.&lt;/p&gt;</description></item><item><title>Avancé</title><link>https://chskii.github.io/tags/advanced/_index.fr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.fr/</guid><description>&lt;p&gt;Ceci est le tag &amp;ldquo;Avancé&amp;rdquo;. Comme pour les autres pages de liste dans Blowfish, vous pouvez ajouter du contenu personnalisé aux termes de taxonomie individuels et il sera affiché en haut de la liste des termes.&lt;/p&gt;
