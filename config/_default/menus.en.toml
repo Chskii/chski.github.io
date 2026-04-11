@@ -15,5 +15,5 @@
 
 [[main]]
   name = "About"
-  pageRef = "/about"
+  pageRef = "/es/about/"
   weight = 40
