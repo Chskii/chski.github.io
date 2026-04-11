@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chski</title><link>https://chskii.github.io/</link><description>Recent content on Chski</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><atom:link href="https://chskii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2人目のダミー作者</title><link>https://chskii.github.io/authors/secondauthor/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/authors/secondauthor/_index.ja/</guid><description>&lt;p&gt;2人目のダミー作者の素晴らしいダミープロフィールです。&lt;/p&gt;</description></item><item><title>Advanced</title><link>https://chskii.github.io/tags/advanced/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.it/</guid><description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chski</title><link>https://chskii.github.io/</link><description>Recent content on Chski</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://chskii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Sobre mí</title><link>https://chskii.github.io/es/about/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://chskii.github.io/es/about/</guid><description>&lt;p&gt;Hola, soy Chski — un entusiasta de la seguridad enfocado en pentesting y desafíos CTF.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Lo que hago
+ &lt;div id="lo-que-hago" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#lo-que-hago" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Juego máquinas de HackTheBox, escribo writeups detallados y documento todo lo que aprendo. Este blog es mi base de conocimiento personal y una forma de compartir lo que encuentro interesante en el mundo de la seguridad ofensiva.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Habilidades
+ &lt;div id="habilidades" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#habilidades" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pentesting de aplicaciones web&lt;/li&gt;
+&lt;li&gt;Escalada de privilegios en Linux&lt;/li&gt;
+&lt;li&gt;Ataques a Active Directory&lt;/li&gt;
+&lt;li&gt;CTF / HackTheBox&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Certificaciones y progreso
+ &lt;div id="certificaciones-y-progreso" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#certificaciones-y-progreso" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;En camino al OSCP.&lt;/p&gt;</description></item><item><title/><link>https://chskii.github.io/en/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/en/about/</guid><description/></item><item><title>2人目のダミー作者</title><link>https://chskii.github.io/authors/secondauthor/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/authors/secondauthor/_index.ja/</guid><description>&lt;p&gt;2人目のダミー作者の素晴らしいダミープロフィールです。&lt;/p&gt;</description></item><item><title>Advanced</title><link>https://chskii.github.io/tags/advanced/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.it/</guid><description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:&lt;/p&gt;
 &lt;p&gt;You can also use these content pages to define Hugo metadata like titles and descriptions that will be used for SEO and other purposes.&lt;/p&gt;</description></item><item><title>Avançado</title><link>https://chskii.github.io/tags/advanced/_index.pt-br/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.pt-br/</guid><description>&lt;p&gt;Esta é a tag &amp;ldquo;Avançado&amp;rdquo;. Assim como outras páginas de listagem no Blowfish, você pode adicionar conteúdo personalizado a termos de taxonomia individuais e ele será exibido no topo da listagem de termos.&lt;/p&gt;
 &lt;p&gt;Você também pode usar essas páginas de conteúdo para definir metadados do Hugo, como títulos e descrições, que serão usados para SEO e outros propósitos.&lt;/p&gt;</description></item><item><title>Avançado</title><link>https://chskii.github.io/tags/advanced/_index.pt-pt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.pt-pt/</guid><description>&lt;p&gt;Esta é a tag &amp;ldquo;Avançado&amp;rdquo;. Tal como outras páginas de listagem no Blowfish, pode adicionar conteúdo personalizado a termos de taxonomia individuais e ele será apresentado no topo da listagem de termos.&lt;/p&gt;
 &lt;p&gt;Também pode utilizar estas páginas de conteúdo para definir metadados do Hugo, como títulos e descrições, que serão utilizados para SEO e outros propósitos.&lt;/p&gt;</description></item><item><title>Avancé</title><link>https://chskii.github.io/tags/advanced/_index.fr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/tags/advanced/_index.fr/</guid><description>&lt;p&gt;Ceci est le tag &amp;ldquo;Avancé&amp;rdquo;. Comme pour les autres pages de liste dans Blowfish, vous pouvez ajouter du contenu personnalisé aux termes de taxonomie individuels et il sera affiché en haut de la liste des termes.&lt;/p&gt;
