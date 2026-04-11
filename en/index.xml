@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chski</title><link>https://chskii.github.io/en/</link><description>Recent content on Chski</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><atom:link href="https://chskii.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://chskii.github.io/en/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chskii.github.io/en/about/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chski</title><link>https://chskii.github.io/en/</link><description>Recent content on Chski</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://chskii.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://chskii.github.io/en/about/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://chskii.github.io/en/about/</guid><description>&lt;p&gt;Hey, I&amp;rsquo;m Chski — a security enthusiast focused on penetration testing and CTF challenges.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;What I do
+ &lt;div id="what-i-do" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#what-i-do" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;I play HackTheBox machines, write detailed writeups, and document everything I learn along the way. This blog is my personal knowledge base and a way to share what I find interesting in the world of offensive security.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Skills
+ &lt;div id="skills" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#skills" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Web application pentesting&lt;/li&gt;
+&lt;li&gt;Linux privilege escalation&lt;/li&gt;
+&lt;li&gt;Active Directory attacks&lt;/li&gt;
+&lt;li&gt;CTF / HackTheBox&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Certifications &amp;amp; Progress
+ &lt;div id="certifications--progress" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#certifications--progress" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Working towards OSCP.&lt;/p&gt;</description></item></channel></rss>
